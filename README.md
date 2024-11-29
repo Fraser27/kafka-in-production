@@ -10,6 +10,9 @@ Curious to know how big companies are operating their kafka fleet in production?
 - **How** other organisations attempt to solve the issues? 🛠️
 - **Why** certain approaches are adopted over others? :balance_scale:
 - **What** can we learn for our own use case?
+- **Additional Points**
+  https://aws.amazon.com/compare/the-difference-between-rabbitmq-and-kafka/
+  https://www.confluent.io/blog/kafka-fastest-messaging-system/
 
 ## Table of Contents
 
@@ -19,9 +22,11 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Allegro](#allegro)
 1. [Apple](#apple)
 1. [AppsFlyer](#appsflyer)
+1. [Audi](#audi)
 1. [BigCommerce](#bigcommerce)
 1. [Bitpanda](#bitpanda)
 1. [Bloomberg](#bloomberg)
+1. [BMW](#bmw)
 1. [Bolt](#bolt)
 1. [Booking.com](#bookingcom)
 1. [Brex](#brex)
@@ -56,6 +61,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Shopify](#shopify)
 1. [Slack](#slack)
 1. [Stripe](#stripe)
+1. [Tesla](#tesla)
 1. [Uber](#uber)
 1. [Wise](#wise)
 1. [Wix](#wix)
@@ -99,6 +105,22 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings/) - `2020` - :studio_microphone:
 - [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - `2020` - :books:
 - [Managing your Kafka in an explosive growth environment](https://www.youtube.com/watch?v=tjjeaCtsw_M) - `2019` - :studio_microphone:
+
+## Audi
+
+- [Audi Connected Cars](https://www.kai-waehner.de/blog/2021/07/19/kafka-automotive-industry-use-cases-examples-bmw-porsche-tesla-audi-connected-cars-industrial-iot-manufacturing-customer-360-mobility-services/)
+- [Fast Cars](https://www.confluent.io/kafka-summit-london18/keynote-fast-cars-in-a-streaming-world-reimagining-transportation-at-audi/)
+
+## Bmw
+
+- [Revving Up IoT Use Cases with Real-Time Hybrid Cloud Data Architecture] (https://www.confluent.io/customers/bmw-group/)
+
+## Tesla
+
+- [Tesla's Streaming Data Platform] (https://www.confluent.io/kafka-summit-san-francisco-2019/0-60-teslas-streaming-data-platform/)
+- [Real-World Deployments of Kafka in the Automotive Industry] (https://www.kai-waehner.de/blog/2021/07/19/kafka-automotive-industry-use-cases-examples-bmw-porsche-tesla-audi-connected-cars-industrial-iot-manufacturing-customer-360-mobility-services/)
+- [Tesla Opensource Contributions to Kafka] (https://github.com/teslamotors/kafka-helmsman)
+- [Managing a Distributed Electrical Grid in Real Time with Kafka] (https://www.manning.com/liveproject/managing-a-distributed-electrical-grid-in-real-time-with-kafka)
 
 ## BigCommerce
 
